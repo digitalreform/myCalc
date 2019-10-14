@@ -1,4 +1,4 @@
-#myCalc Calculator
+# myCalc Calculator
 
 A simple Calculator Web App Written to demonstrate JavaScript.
 
