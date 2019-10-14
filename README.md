@@ -10,4 +10,8 @@ Usage:
 
 _The calculator does simple calculations for now._
 
+See it working here: 
+
+https://digitalreform.github.io/myCalc/
+
 If you notice any errors, please let me know.
